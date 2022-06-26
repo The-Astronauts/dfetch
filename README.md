@@ -17,7 +17,7 @@ A **command-line** utility to print **system information**.
 ## Usage
 ### Installation
 1. Clone this repo.
-    - `git clone https://github.com/abhnva/dfetch.git`
+    - `git clone https://github.com/The-Astronauts/dfetch.git`
 2. Navigate to the cloned folder.
     - `cd dfetch`
 3. Add execute permissions.
